@@ -1,0 +1,10 @@
+inherit kde4
+
+NAME="kde-l10n-hi"
+VERSION=4.11.5
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE Hindi translation files"
+DESCRIPTION="KDE Hindi translation files"
+
+ARCH=noarch
